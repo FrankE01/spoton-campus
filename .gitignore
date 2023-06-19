@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+out/
+uploads/
+
+# Environment files
+.env
+serviceAccountKey.json
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,88 @@
+{
+  "Locations": {
+    "Lecture Halls": {
+      "Academic Lecture Buildings": {
+        "Jones-Quartey Building": {
+          "Images": [],
+          "Directions": [],
+          "Alias": ["Tingitingi", "JQB"],
+          "Floors": {
+            "Ground Floor": {
+              "Rooms": "(TBD)"
+            },
+            "First Floor": {
+              "Lecture Rooms": ["JQB9", "JQB11", "JQB12", "JQB14"],
+              "Offices": ["Student's Accounts Office", "Radio Univers Office"],
+              "Restaurants": ["(TBD)"]
+            },
+            "Second Floor": {
+              "Lecture Rooms": ["JQB19", "JQB22", "JQB23", "JQB24"]
+            }
+          }
+        },
+        "Kofi Abrefia Busia": {
+          "Alias": ["KAB"],
+          "Floors": {
+            "Ground Floor": {
+              "Rooms": "KAB Lecture Room"
+            }
+          }
+        },
+        "N-Block": {
+          "Floors": {
+            "Ground Floor": {
+              "Lecture Rooms": ["NB1", "NB2", "NB3"]
+            }
+          }
+        },
+        "New N-Block": {
+          "Alias": ["NNB"],
+          "Floors": {
+            "Ground Floor": {
+              "Lecture Rooms": ["NNB1", "NNB2", "NNB3"]
+            }
+          }
+        },
+        "Larway Oracca Tetteh": {
+          "Alias": ["LOT"],
+          "Floor": {
+            "Ground Floor": {
+              "Lecture Rooms": ["LOT1", "LOT2"]
+            }
+          }
+        },
+        "Central Cafeteria": {
+          "Alias": ["CC"],
+          "Floor": {
+            "Ground Floor": {
+              "Restaurants": ["(TBD)"],
+              "Health Facilities": ["Students' Clinic"]
+            }
+          }
+        },
+        "Kingdom Bookstore": {
+          "Floor": {
+            "First Floor": {
+              "Lecture Rooms": ["E9", "E10"]
+            }
+          }
+        }
+      },
+      "Departmental Lecuture Buildings": {}
+    },
+    "Conference Halls": {
+      "Great Hall": {},
+      "Amegashie Conference Room": {},
+      "Cedi Conference": {},
+      "Westland": {},
+      "Faculty of Law Conference Hall": {},
+      "ISSER Conference Hall": {},
+      "Nkrumah Complex Conference Hall": {}
+    },
+    "Libraries": {},
+    "Bus Stop": {},
+    "Printing Presses": {},
+    "Others": {}
+  },
+  "App Features": ""
+}
